@@ -1,4 +1,4 @@
-# 🤖 Agentic AI Examples — Incentro Demo
+# 🤖 Agentic AI Examples — Incentro
 
 This repository contains simple and practical code examples used during Agentic AI presentation at **Incentro**.  
 The goal is to show how to build and run agent-based applications using the **[Agno](https://github.com/khoj-ai/agno)** framework with models like OpenAI and Groq, tool integrations, multi-agent workflows, and memory using vector databases.
